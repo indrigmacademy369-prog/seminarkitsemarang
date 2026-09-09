@@ -166,4 +166,16 @@
     <lastmod>2026-08-29</lastmod>
     <priority>0.6</priority>
   </url>
+  <url>
+    <loc>https://seminarkitsemarang.web.id/panduan-seminar-kit-semarang.html</loc>
+    <lastmod>2026-09-09</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://seminarkitsemarang.web.id/memilih-vendor-seminar-kit.html</loc>
+    <lastmod>2026-09-10</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
 </urlset>
