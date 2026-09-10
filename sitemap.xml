@@ -178,4 +178,16 @@
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
   </url>
+  <url>
+    <loc>https://seminarkitsemarang.web.id/biaya-seminar-kit-semarang.html</loc>
+    <lastmod>2026-09-10</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://seminarkitsemarang.web.id/isi-seminar-kit-semarang.html</loc>
+    <lastmod>2026-09-11</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
 </urlset>
